@@ -186,5 +186,9 @@ input[type="text"] {
   background-color: #d32f2f;
 }
 
-
+.typing-indicator {
+  font-style: italic;
+  color: gray;
+  margin-bottom: 10px;
+}
 
